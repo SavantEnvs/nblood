@@ -1,0 +1,7 @@
+# Keep the FULL repo (incl. .git) in the build context. The template's `build/` pattern would also drop
+# upstream's source/build/ engine tree, so only top-level build outputs are excluded here.
+/obj/
+/nblood
+.DS_Store
+*.swp
+*~

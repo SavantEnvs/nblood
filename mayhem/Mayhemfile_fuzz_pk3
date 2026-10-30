@@ -1,0 +1,9 @@
+project: savantenvs/nblood
+target: fuzz_pk3
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_pk3/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_pk3
+    libfuzzer: true
+    timeout: 30

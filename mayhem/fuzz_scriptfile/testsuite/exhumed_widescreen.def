@@ -1,0 +1,41 @@
+
+// HUD (by Dzierzan)
+tilefromtexture 657 { file "tiles/657.png" xoff 2 yoff 1 ifmatch { size 320 42 crc32 0x3F93A5B2 } }
+
+// Weapons (by Dzierzan, MaxED, fgsfds)
+tilefromtexture 1214 { file "tiles/1214.png" xoff -14 ifmatch { size 138 105 crc32 0x8255C2F9 } }
+tilefromtexture 1215 { file "tiles/1215.png" xoff 12 ifmatch { size 141 91 crc32 0x2BF8DDD9 } }
+tilefromtexture 1216 { file "tiles/1216.png" xoff 18 ifmatch { size 128 100 crc32 0x42C2A294 } }
+tilefromtexture 1217 { file "tiles/1217.png" xoff 6 ifmatch { size 124 96 crc32 0x74798605 } }
+tilefromtexture 1218 { file "tiles/1218.png" xoff -14 ifmatch { size 138 105 crc32 0xA6FC7FB5 } }
+
+tilefromtexture 1261 { file "tiles/1261.png" xoff 52 ifmatch { size 115 101 crc32 0x30B30FB1 } }
+tilefromtexture 1262 { file "tiles/1262.png" xoff -53 ifmatch { size 115 101 crc32 0xD37C707A } }
+
+tilefromtexture 2150 { file "tiles/2150.png" xoff 40 yoff 56 ifmatch { size 320 200 crc32 0xA3F3D566 } }
+tilefromtexture 2151 { file "tiles/2151.png" xoff 40 yoff 56 ifmatch { size 320 200 crc32 0x217BA3F1 } }
+tilefromtexture 2152 { file "tiles/2152.png" xoff 25 yoff 56 ifmatch { size 320 200 crc32 0xDA8B6195 } }
+tilefromtexture 2153 { file "tiles/2153.png" xoff 21 yoff 56 ifmatch { size 320 200 crc32 0x764BF84B } }
+tilefromtexture 2154 { file "tiles/2154.png" xoff 13 yoff 56 ifmatch { size 320 200 crc32 0x743C991B } }
+tilefromtexture 2155 { file "tiles/2155.png" xoff 7 yoff 56 ifmatch { size 320 200 crc32 0x629336D6 } }
+tilefromtexture 2156 { file "tiles/2156.png" xoff 3 yoff 56 ifmatch { size 320 200 crc32 0x75C3686B } }
+tilefromtexture 2157 { file "tiles/2157.png" xoff -4 yoff 56 ifmatch { size 320 200 crc32 0x049FEDE2 } }
+tilefromtexture 2158 { file "tiles/2158.png" xoff -18 yoff 21 ifmatch { size 320 200 crc32 0x7F3EA198 } }
+tilefromtexture 2159 { file "tiles/2159.png" xoff 45 yoff -21 ifmatch { size 320 200 crc32 0xDBC9279C } } // fgsfds
+tilefromtexture 2160 { file "tiles/2160.png" xoff 41 yoff -21 ifmatch { size 320 200 crc32 0x009DD08D } } // fgsfds
+
+tilefromtexture 2224 { file "tiles/2224.png" xoff -2 ifmatch { size 51 92 crc32 0x4177591B } }
+
+tilefromtexture 2553 { file "tiles/2553.png" xoff -29 yoff 13 ifmatch { size 186 140 crc32 0x559FDBD0 } }
+tilefromtexture 3190 { file "tiles/3190.png" xoff -55 yoff 21 ifmatch { size 71 108 crc32 0x4C19DF32 } }
+tilefromtexture 3191 { file "tiles/3191.png" xoff 0 yoff -3 ifmatch { size 101 154 crc32 0x122381C9 } }
+tilefromtexture 3194 { file "tiles/3194.png" xoff 98 yoff 23 ifmatch { size 97 66 crc32 0xC0669636 } }
+tilefromtexture 3195 { file "tiles/3195.png" xoff 120 yoff 70 ifmatch { size 94 56 crc32 0x3695F4D2 } }
+tilefromtexture 3196 { file "tiles/3196.png" xoff 18 yoff 5 ifmatch { size 168 98 crc32 0xD9DA4CAC } }
+tilefromtexture 3198 { file "tiles/3198.png" xoff -7 ifmatch { size 66 85 crc32 0xFF322DDC } }
+
+tilefromtexture 3263 { file "tiles/3263.png" xoff -24 yoff -4 ifmatch { size 207 111 crc32 0x8AB1B69E } }
+tilefromtexture 3265 { file "tiles/3265.png" xoff -8 yoff -7 ifmatch { size 185 110 crc32 0x6C75D08E } }
+tilefromtexture 3267 { file "tiles/3267.png" xoff -2 yoff -11 ifmatch { size 161 110 crc32 0x29F2EBF0 } }
+tilefromtexture 3268 { file "tiles/3268.png" xoff -23 yoff -12 ifmatch { size 142 110 crc32 0x676AF547 } }
+tilefromtexture 3271 { file "tiles/3271.png" xoff 22 yoff -2 ifmatch { size 89 67 crc32 0x4F25E709 } }

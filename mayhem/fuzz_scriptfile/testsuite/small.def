@@ -1,0 +1,2 @@
+model "a/b.md3" { scale 2.5 frame 42 }
+symbol tile { 12 0x10 -3 }

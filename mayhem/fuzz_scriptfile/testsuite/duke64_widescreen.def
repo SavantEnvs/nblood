@@ -1,0 +1,16 @@
+tilefromtexture 2324 { file "tiles/2324.png" xoffset 0 yoffset -10 texture }
+tilefromtexture 2325 { file "tiles/2325.png" xoffset 23 yoffset -10 texture }
+tilefromtexture 2326 { file "tiles/2326.png" xoffset 15 yoffset -10 texture }
+tilefromtexture 2327 { file "tiles/2327.png" xoffset 0 yoffset -10 texture }
+tilefromtexture 2528 { file "tiles/2528.png" xoffset 56 yoffset 51 texture }
+tilefromtexture 2529 { file "tiles/2529.png" xoffset 10 yoffset 59 texture }
+tilefromtexture 2548 { file "tiles/2548.png" xoffset -69 yoffset 43 texture }
+tilefromtexture 2616 { file "tiles/2616.png" xoffset 61 yoffset 46 texture }
+tilefromtexture 2617 { file "tiles/2617.png" xoffset 34 yoffset 65 texture }
+tilefromtexture 2618 { file "tiles/2618.png" xoffset 27 yoffset 81 texture }
+tilefromtexture 2619 { file "tiles/2619.png" xoffset 24 yoffset 73 texture }
+tilefromtexture 3638 { file "tiles/3638.png" xoffset 52 yoffset 30 texture }
+tilefromtexture 3639 { file "tiles/3639.png" xoffset 23 yoffset 46 texture }
+tilefromtexture 3640 { file "tiles/3640.png" xoffset 27 yoffset 46 texture }
+tilefromtexture 3641 { file "tiles/3641.png" xoffset 33 yoffset 45 texture }
+tilefromtexture 3642 { file "tiles/3642.png" xoffset 38 yoffset 45 texture }
